@@ -9,7 +9,7 @@ This portfolio is a place where all of the projects I've worked on are stored.
 
 
 
-# Obligitory projects
+# Obligitory Projects
 ## [Titanic Survival Predictions](https://github.com/Jack-Merrett/data-titanic_disaster)
 - A common data set used by all learners of Data Science and Analysis.
 - Used data exploration, cleaning, feature engeneering, classification regression to make prediction on the survival rates of the different classes of passengers. 
