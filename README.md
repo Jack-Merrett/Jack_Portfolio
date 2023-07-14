@@ -29,3 +29,9 @@ This portfolio is a place where all of the projects I've worked on are stored.
 - It is a mixture of front end and back end, but I found, cleaned, and exported the correct data to the specified file type (json).
 - Jupyter Notebook, Python(Pandas, Matplotlib, numpy.)
 ![](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x683.jpg)
+
+## [Maui, Hawaii AirBnB Analysis](https://github.com/Jack-Merrett/hawaii_airbnb)
+- This is a project to show potential investors in maui realestate which areas are ideal if at all.
+- doing some basic analysis.
+- using Python(Pandas, Matplotlib)
+![](https://i.insider.com/607dbae474da0300181e27fb?width=1000&format=jpeg&auto=webp)
