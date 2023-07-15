@@ -8,6 +8,13 @@ This portfolio is a place where all of the projects I've worked on are stored.
 - Python(SciKit-Learn, Numpy, Pandas, SciKit-Surprise), Jupyter Notebook, Streamlit. 
 ![](https://res.cloudinary.com/jerrick/image/upload/v1673103144/63b98728c9895a001ca7cc8d.jpg)
 
+## [Maui, Hawaii AirBnB Analysis](https://github.com/Jack-Merrett/hawaii_airbnb)
+- This is a project to show potential investors in maui realestate which areas are ideal if at all.
+- doing some basic analysis.
+- using Python(Pandas, Matplotlib, re), Tableau!
+- [Tableau Dashboard](https://public.tableau.com/app/profile/jack.merrett/viz/MauiAirBnBDashboard/Dashboard1#1)
+![](https://i.insider.com/607dbae474da0300181e27fb?width=1000&format=jpeg&auto=webp)
+
 
 # Obligitory Projects
 ## [Titanic Survival Predictions](https://github.com/Jack-Merrett/data-titanic_disaster)
@@ -29,9 +36,3 @@ This portfolio is a place where all of the projects I've worked on are stored.
 - It is a mixture of front end and back end, but I found, cleaned, and exported the correct data to the specified file type (json).
 - Jupyter Notebook, Python(Pandas, Matplotlib, numpy.)
 ![](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x683.jpg)
-
-## [Maui, Hawaii AirBnB Analysis](https://github.com/Jack-Merrett/hawaii_airbnb)
-- This is a project to show potential investors in maui realestate which areas are ideal if at all.
-- doing some basic analysis.
-- using Python(Pandas, Matplotlib)
-![](https://i.insider.com/607dbae474da0300181e27fb?width=1000&format=jpeg&auto=webp)
