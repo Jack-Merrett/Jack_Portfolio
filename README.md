@@ -3,9 +3,8 @@ This portfolio is a place where all of the projects I've worked on are stored.
 
 # Completed Projects
 ## [Maui, Hawaii AirBnB Analysis](https://github.com/Jack-Merrett/hawaii_airbnb)
-- This is a project to show potential investors in maui realestate which areas are ideal if at all.
-- doing some basic analysis.
-- using Python(Pandas, Matplotlib, re), Tableau!
+- This is a project to show the basic information on a visual dashboard.
+- Doing Data Analysis/ data cleaning using Python (pandas and numpy) with the add of visualisation tools (Tableau)
 - [Tableau Dashboard Maui](https://public.tableau.com/app/profile/jack.merrett/viz/MauiAirBnBDashboard/Dashboard1#1)
 - [Tableau Dashboard All Islands](https://public.tableau.com/authoring/IslandAirBnBOverview/Dashboard1#3)
 ![](https://i.insider.com/607dbae474da0300181e27fb?width=1000&format=jpeg&auto=webp)
