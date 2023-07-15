@@ -2,18 +2,19 @@
 This portfolio is a place where all of the projects I've worked on are stored. 
 
 # Completed Projects
+## [Maui, Hawaii AirBnB Analysis](https://github.com/Jack-Merrett/hawaii_airbnb)
+- This is a project to show potential investors in maui realestate which areas are ideal if at all.
+- doing some basic analysis.
+- using Python(Pandas, Matplotlib, re), Tableau!
+- [Tableau Dashboard Maui](https://public.tableau.com/app/profile/jack.merrett/viz/MauiAirBnBDashboard/Dashboard1#1)
+- [Tableau Dashboard All Islands](https://public.tableau.com/authoring/IslandAirBnBOverview/Dashboard1#3)
+![](https://i.insider.com/607dbae474da0300181e27fb?width=1000&format=jpeg&auto=webp)
+
 ## [Anime recommender](https://ani-reco.streamlit.app/)
 - 3 Person Team, I was in charge of making a machine learning model given a data set that was cleaned by our team's data analyst.
 - The timeline was two weeks. We were able to make two different models: a user-data based model and a nonuser-data based model.
 - Python(SciKit-Learn, Numpy, Pandas, SciKit-Surprise), Jupyter Notebook, Streamlit. 
 ![](https://res.cloudinary.com/jerrick/image/upload/v1673103144/63b98728c9895a001ca7cc8d.jpg)
-
-## [Maui, Hawaii AirBnB Analysis](https://github.com/Jack-Merrett/hawaii_airbnb)
-- This is a project to show potential investors in maui realestate which areas are ideal if at all.
-- doing some basic analysis.
-- using Python(Pandas, Matplotlib, re), Tableau!
-- [Tableau Dashboard](https://public.tableau.com/app/profile/jack.merrett/viz/MauiAirBnBDashboard/Dashboard1#1)
-![](https://i.insider.com/607dbae474da0300181e27fb?width=1000&format=jpeg&auto=webp)
 
 
 # Obligitory Projects
@@ -30,7 +31,7 @@ This portfolio is a place where all of the projects I've worked on are stored.
 ![](https://raw.githubusercontent.com/Masterx-AI/Project_Housing_Price_Prediction_/main/hs.jpg)
 
 ## 
-# Current Projects
+# Current Ongoing Projects
 ## [Tokyo Resturant Recommender](https://github.com/Wolfinbarger/OniGiri)
 - our three man team is currently trying to build a resturant recommoneder for the tokyo metropolitan area.
 - It is a mixture of front end and back end, but I found, cleaned, and exported the correct data to the specified file type (json).
