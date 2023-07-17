@@ -9,6 +9,12 @@ This portfolio is a place where all of the projects I've worked on are stored.
 - [Tableau Dashboard All Islands](https://public.tableau.com/authoring/IslandAirBnBOverview/Dashboard1#3)
 ![](https://i.insider.com/607dbae474da0300181e27fb?width=1000&format=jpeg&auto=webp)
 
+## [Electrocardiogram Predictive Modeling](https://github.com/Jack-Merrett/data-electrocardiograms)
+- This project is to show my prowess with logistic modeling for classification.
+- Using a dataset we will explore, train, and use a model to predic if a patient is "at-risk" of cardiac problems.
+- Python, SciKit-Learn, Numpy, Pandas, Jupyter Notebook.
+![](https://redcliffelabs.com/myhealth/wp-content/uploads/2022/08/ecg-test-1200x900.webp)
+
 ## [Anime recommender](https://ani-reco.streamlit.app/)
 - 3 Person Team, I was in charge of making a machine learning model given a data set that was cleaned by our team's data analyst.
 - The timeline was two weeks. We were able to make two different models: a user-data based model and a nonuser-data based model.
