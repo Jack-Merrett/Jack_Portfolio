@@ -23,17 +23,19 @@ This portfolio is a place where all of the projects I've worked on are stored.
 
 
 # Obligitory Projects
+## [Housing Price Predictions](https://github.com/Jack-Merrett/data-houses-kaggle-competition)
+- A common data set used by all learners of Data Science and Analysis.
+- Used data data exploration, cleaning, feature engeneering, linear regression to predict the prices on different houses based on the different features given.
+- Jupyter Notebook, Python(Pandas, Matplotlib, numpy, scikit-learn).
+![](https://raw.githubusercontent.com/Masterx-AI/Project_Housing_Price_Prediction_/main/hs.jpg)
+
 ## (ongoing) [Titanic Survival Predictions](https://github.com/Jack-Merrett/data-titanic_disaster)
 - A common data set used by all learners of Data Science and Analysis.
 - Used data exploration, cleaning, feature engeneering, classification regression to make prediction on the survival rates of the different classes of passengers. 
 - Jupyter Notebook, Python(Pandas, Matplotlib, numpy, scikit-learn)
 ![](https://www.nyckel.com/blog/images/2021/titanic-kaggle-hero.jpg) 
 
-## [Housing Price Predictions](https://github.com/Jack-Merrett/data-houses-kaggle-competition)
-- A common data set used by all learners of Data Science and Analysis.
-- Used data data exploration, cleaning, feature engeneering, linear regression to predict the prices on different houses based on the different features given.
-- Jupyter Notebook, Python(Pandas, Matplotlib, numpy, scikit-learn).
-![](https://raw.githubusercontent.com/Masterx-AI/Project_Housing_Price_Prediction_/main/hs.jpg)
+
 
 ## 
 # Current Ongoing Projects
