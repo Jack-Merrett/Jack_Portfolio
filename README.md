@@ -29,7 +29,7 @@ This portfolio is a place where all of the projects I've worked on are stored.
 - Jupyter Notebook, Python(Pandas, Matplotlib, numpy, scikit-learn).
 ![](https://raw.githubusercontent.com/Masterx-AI/Project_Housing_Price_Prediction_/main/hs.jpg)
 
-## (ongoing) [Titanic Survival Analysis](https://github.com/Jack-Merrett/data-titanic_disaster)
+## [Titanic Survival Analysis](https://github.com/Jack-Merrett/data-titanic_disaster)
 - A common data set used by all learners of Data Science and Analysis.
 - Used data exploration, cleaning, feature engeneering, to get valuable insite on the data presented. 
 - Jupyter Notebook, Python(Pandas, Matplotlib, numpy, deaborn)
