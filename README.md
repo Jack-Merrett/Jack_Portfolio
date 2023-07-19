@@ -32,7 +32,7 @@ This portfolio is a place where all of the projects I've worked on are stored.
 ## [Titanic Survival Analysis](https://github.com/Jack-Merrett/data-titanic_disaster)
 - A common data set used by all learners of Data Science and Analysis.
 - Used data exploration, cleaning, feature engeneering, to get valuable insite on the data presented. 
-- Jupyter Notebook, Python(Pandas, Matplotlib, numpy, deaborn)
+- Jupyter Notebook, Python(Pandas, Matplotlib, numpy, seaborn)
 ![](https://www.nyckel.com/blog/images/2021/titanic-kaggle-hero.jpg) 
 
 
@@ -40,7 +40,7 @@ This portfolio is a place where all of the projects I've worked on are stored.
 ## 
 # Current Ongoing Projects
 ## [Tokyo Resturant Recommender](https://github.com/Wolfinbarger/OniGiri)
-- our three man team is currently trying to build a resturant recommoneder for the tokyo metropolitan area.
+- our four man team is currently trying to build a resturant recommoneder for the tokyo metropolitan area.
 - It is a mixture of front end and back end, but I found, cleaned, and exported the correct data to the specified file type (json).
-- Jupyter Notebook, Python(Pandas, Matplotlib, numpy.)
+- Jupyter Notebook, Python(Pandas, Matplotlib, Numpy.)
 ![](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x683.jpg)
