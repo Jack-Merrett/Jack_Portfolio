@@ -34,7 +34,7 @@ This portfolio is a place where all of the projects I've worked on are stored.
 - A common data set used by all learners of Data Science and Analysis.
 - Used data exploration, cleaning, feature engeneering, to get valuable insite on the data presented. 
 - Jupyter Notebook, Python(Pandas, Matplotlib, numpy, seaborn), Machine Learning. 
-![](https://www.nyckel.com/blog/images/2021/titanic-kaggle-hero.jpg) 
+![](https://www.nyckel.com/blog/images/2021/titanic-kaggle-hero.jpg)
 
 
 
@@ -45,3 +45,9 @@ This portfolio is a place where all of the projects I've worked on are stored.
 - It is a mixture of front end and back end, but I found, cleaned, and exported the correct data to the specified file type (json).
 - Jupyter Notebook, Python(Pandas, Matplotlib, Numpy.)
 ![](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x683.jpg)
+
+## [Space Titanic Analysis and Predictons](https://github.com/Jack-Merrett/space-titanic-project)
+- Using a data set I found on Kaggle Call [Space Titanic](https://www.kaggle.com/competitions/spaceship-titanic).
+- Used data explorations, cleaning, feature engineering, to get valuable insites and make predictions on the data.
+- Jupyter Notebook, Python(Pandas, Matplotlib, numpy, seaborn), Machine Learning.
+![](https://miro.medium.com/v2/resize:fit:640/1*q4Di1NuAoDwm0ErFuJhG5g.jpeg)
