@@ -13,7 +13,7 @@ This portfolio is a place where all of the projects I've worked on are stored.
 - This project is to show my prowess with logistic modeling for classification.
 - Using a dataset we will explore, train, and use a model to predic if a patient is "at-risk" of cardiac problems.
 - Python, SciKit-Learn, Numpy, Pandas, Jupyter Notebook.
-![](https://redcliffelabs.com/myhealth/wp-content/uploads/2022/08/ecg-test-1200x900.webp)
+![](https://www.publicdomainpictures.net/pictures/50000/nahled/heart-cardiogram.jpg)
 
 ## [Anime recommender](https://ani-reco.streamlit.app/)
 - 3 Person Team, I was in charge of making a machine learning model given a data set that was cleaned by our team's data analyst.
