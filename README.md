@@ -46,7 +46,7 @@ This portfolio is a place where all of the projects I've worked on are stored.
 - Jupyter Notebook, Python(Pandas, Matplotlib, Numpy.)
 ![](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x683.jpg)
 
-## [Space Titanic Analysis and Predictons](https://github.com/Jack-Merrett/space-titanic-project)
+## [Space Titanic Analysis and Predictons](https://github.com/Jack-Merrett/space-titanic-project) (Data Science/ Analysis)
 - Using a data set I found on Kaggle Call [Space Titanic](https://www.kaggle.com/competitions/spaceship-titanic).
 - Used data explorations, cleaning, feature engineering, to get valuable insites and make predictions on the data.
 - Jupyter Notebook, Python(Pandas, Matplotlib, numpy, seaborn), Machine Learning.
