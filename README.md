@@ -42,7 +42,8 @@ This portfolio is a place where all of the projects I've worked on are stored.
 ## 
 # Current Ongoing Projects
 ## [Tokyo Resturant Recommender](https://github.com/Wolfinbarger/OniGiri) (Data Science/ Analysis)
-- our four man team is currently trying to build a resturant recommoneder for the tokyo metropolitan area.
+- Image you're in Tokyo and you're hungry, but you don't know what to eat. You pull out your phone and are bombarded with more options then you  know what to do with. Oni-giri will select either at random or with some bias (your user info) to give you a selection of restaurants in your ward until you find something you like.
+- Our four man team is currently trying to build a restaurant recommender for the Tokyo metropolitan area.
 - It is a mixture of front end and back end, but I found, cleaned, and exported the correct data to the specified file type (json).
 - Jupyter Notebook, Python(Pandas, Matplotlib, Numpy.)
 ![](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x683.jpg)
