@@ -5,10 +5,19 @@ This portfolio is a place where all of the projects I've worked on are stored.
 ## [Fifa 21 Data Cleaning Project](https://github.com/Jack-Merrett/fifa_data_cleaning_project) (Data Cleaning)
 Project Highlights:
 - Leveraged a popular football(soccer) dataset in the field of Data Science and Analysis.
-- Applied comprehensive data exploration, cleaning, and feature engineering techniques to extract meaningful insights from the raw data.
+- Applied comprehensive data exploration, cleaning, and feature engineering.
 - Utilized Jupyter Notebook and popular Python libraries including Pandas and NumPy for data manipulation.
 - Showcased proficiency in data cleaning practices and laid the foundation for subsequent data analysis tasks.
 ![](https://frontofficesports.com/wp-content/uploads/2022/11/FOS-22-11.21-World-Cup-Earners-Mbappe.jpg)
+
+## [2023 Stack Overflow Survey Analysis](https://github.com/Jack-Merrett/stack_overflow_2023_survey_analysis_project) (Data Analysis)
+Project Highlights:
+- Leveraged a popular annual survey dataset to do some Data Analysis.
+- Applied comprehensive data exploration, cleaning, and feature engineering techniques to extract meaningful insights from the raw data.
+- Utilized Jupyter Notebook and popular Python libraries including Pandas and NumPy for data manipulation.
+- Showcased proficiency in data analysis practices.
+![](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/Stack-Overflow-2023-developer-survey.png?itok=jAlY3m72)
+
 
 ## [Maui, Hawaii AirBnB Analysis](https://github.com/Jack-Merrett/hawaii_airbnb) (Data Visualization)
 - This is a project to show the basic information on a visual dashboard.
