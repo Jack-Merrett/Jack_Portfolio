@@ -18,7 +18,6 @@ Project Highlights:
 - Showcased proficiency in data analysis practices.
 ![](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/Stack-Overflow-2023-developer-survey.png?itok=jAlY3m72)
 
-
 ## [Maui, Hawaii AirBnB Analysis](https://github.com/Jack-Merrett/hawaii_airbnb) (Data Visualization)
 - This is a project to show the basic information on a visual dashboard.
 - Doing Data Analysis/ data cleaning using Python (pandas and numpy) with the add of visualisation tools (Tableau)
@@ -26,6 +25,16 @@ Project Highlights:
 - [Tableau Dashboard All Islands](https://public.tableau.com/authoring/IslandAirBnBOverview/Dashboard1#3)
 ![](https://i.insider.com/607dbae474da0300181e27fb?width=1000&format=jpeg&auto=webp)
 
+# Current Ongoing Projects
+## [London Bike Sharing Project](https://github.com/Jack-Merrett/london_bike_sharing_data_visualization_project) (Data Visualization)
+- Leveraged a foreign dataset to show some visualization processes.
+- Applied Python coding techniques to properly clean, explore and visualize the data.
+- Utilized Jupyter Notebook and popular Python libraries including Seaborn and Matplotlib for Data Visualization.
+- Showcased Proficiency in Data Visualization.
+- Used Tableau Public to show case a Dashboard on the data. It can be found here: (Link coming soon)
+![](https://media.timeout.com/images/101651783/image.jpg)
+
+# Other Projects
 ## [Titanic Survival Analysis](https://github.com/Jack-Merrett/data-titanic_disaster) (Data Analysis)
 - A common data set used by all learners of Data Science and Analysis.
 - Used data exploration, cleaning, feature engeneering, to get valuable insite on the data presented. 
@@ -33,8 +42,6 @@ Project Highlights:
 _nc_ht=scontent.fhnl3-2.fna&oh=00_AfAnX1PJHBxtC3P7AXfEtkYV9AmZDhr8-x772fyruSOwsQ&oe=64C347C7)
 ![](https://www.nyckel.com/blog/images/2021/titanic-kaggle-hero.jpg)
 
-
-# Current Ongoing Projects
 ## [Tokyo Resturant Recommender](https://github.com/Wolfinbarger/OniGiri) (Data Science/ Analysis)
 - Image you're in Tokyo and you're hungry, but you don't know what to eat. You pull out your phone and are bombarded with more options then you  know what to do with. Oni-giri will select either at random or with some bias (your user info) to give you a selection of restaurants in your ward until you find something you like.
 - Our four man team is currently trying to build a restaurant recommender for the Tokyo metropolitan area.
