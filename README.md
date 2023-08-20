@@ -27,11 +27,10 @@ Project Highlights:
 ![](https://i.insider.com/607dbae474da0300181e27fb?width=1000&format=jpeg&auto=webp)
 
 ## [Titanic Survival Analysis](https://github.com/Jack-Merrett/data-titanic_disaster) (Data Analysis)
-## [Titanic Survival Predictions](https://github.com/Jack-Merrett/titanic-ML-predictions) (Data Science)
 - A common data set used by all learners of Data Science and Analysis.
 - Used data exploration, cleaning, feature engeneering, to get valuable insite on the data presented. 
 - Jupyter Notebook, Python(Pandas, Matplotlib, numpy, seaborn), Machine Learning.
-- [ML Results](https://scontent.fhnl3-2.fna.fbcdn.net/v/t39.30808-6/363324254_3268950690063577_8860086203355879948_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=PqV0tREye0kAX8GKmfW&_nc_ht=scontent.fhnl3-2.fna&oh=00_AfAnX1PJHBxtC3P7AXfEtkYV9AmZDhr8-x772fyruSOwsQ&oe=64C347C7)
+_nc_ht=scontent.fhnl3-2.fna&oh=00_AfAnX1PJHBxtC3P7AXfEtkYV9AmZDhr8-x772fyruSOwsQ&oe=64C347C7)
 ![](https://www.nyckel.com/blog/images/2021/titanic-kaggle-hero.jpg)
 
 
